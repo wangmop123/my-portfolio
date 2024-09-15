@@ -1,0 +1,20 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "about/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "about/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "about/javascript.png"
+    },
+   
+
+    {
+      "title": "Figma",
+      "imageSrc": "aqbout/figma.png"
+    }
+  ]
