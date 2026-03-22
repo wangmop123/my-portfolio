@@ -1,5 +1,5 @@
 import React, { Profiler, useEffect, useRef } from 'react'
-import pdf from '../pdf/resume.pdf';
+import pdf from '../pdf/Resume of pema wangmo.pdf';
 import profile from './data/photo.json'
 import Typed from 'typed.js';
 
